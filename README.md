@@ -35,7 +35,5 @@ open web browser and search : http://127.0.0.1:8000/
 
 ## 🔗 Contibutors
 [![Github](https://img.shields.io/badge/Ehtisham-000?style=for-the-badge&logo=ko-fi)](https://github.com/CodeWithEhtisham)
-[![Github](https://img.shields.io/badge/Sami_Shah-000?style=for-the-badge&logo=ko-fi)](https://github.com/sami-shah)
 [![Github](https://img.shields.io/badge/Abid_khan-000?style=for-the-badge&logo=ko-fi)](https://github.com/abidkhan03)
-[![Github](https://img.shields.io/badge/Ahsan_sarbaz-000?style=for-the-badge&logo=ko-fi)](https://github.com/Ahsan-Sarbaz)
 
